@@ -70,9 +70,9 @@
                         </div>
                      </div>
                      <div class="col-md-5">
-                        <label>Email</label>
+                        <label>TC No</label>
                         <div class="form-group">
-                           <asp:TextBox CssClass="form-control" ID="TextBox4" runat="server" placeholder="Email ID" ReadOnly="True"></asp:TextBox>
+                           <asp:TextBox CssClass="form-control" ID="TextBox4" runat="server" placeholder="TC No" ReadOnly="True"></asp:TextBox>
                         </div>
                      </div>
                   </div>
